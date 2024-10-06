@@ -1,4 +1,4 @@
--  Hi, I’m @ErikTonnesen1
+-  Hi, I’m @ErikTonnesen
 -  I am a Software Engineering major @ Kennesaw State University
 
 <!---
