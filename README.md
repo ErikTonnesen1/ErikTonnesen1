@@ -1,5 +1,4 @@
--  Hi, I’m @ErikTonnesen
--  I am a Software Engineering major @ Kennesaw State University
+-  Hi, I’m @ErikTonnesen!
 
 <!---
 ErikTonnesen1/ErikTonnesen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
